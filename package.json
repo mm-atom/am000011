@@ -39,6 +39,7 @@
 	"license": "MIT",
 	"dependencies": {},
 	"devDependencies": {
+		"@mmstudio/am000001": "latest",
 		"@typescript-eslint/eslint-plugin": "latest",
 		"@typescript-eslint/parser": "latest",
 		"del-cli": "latest",
@@ -46,5 +47,8 @@
 		"eslint-config-prettier": "latest",
 		"eslint-plugin-import": "latest",
 		"typescript": "next"
+	},
+	"peerDependencies": {
+		"@mmstudio/am000001": "*"
 	}
 }

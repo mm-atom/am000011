@@ -1,6 +1,6 @@
 {
 	"name": "@mmstudio/am000011",
-	"version": "1.1.202003261702",
+	"version": "1.1.202004170858",
 	"description": "渲染",
 	"scripts": {
 		"test": "tsc -w",
